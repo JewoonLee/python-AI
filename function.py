@@ -1,2 +1,4 @@
-temp=float(input("온도를 입력하시오"))
-print("온도는",temp)
+print('%s %s' %('one','two'))
+print('{} {}'.format('one','two'))
+print('%s %s' %(1,2))
+print('{} {}'.format(1,2))
